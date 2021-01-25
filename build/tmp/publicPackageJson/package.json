@@ -1,0 +1,17 @@
+{
+  "main": "kotlin/TODO_2.js",
+  "devDependencies": {},
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "~5.1.1",
+    "inline-style-prefixer": "~6.0.0",
+    "react-player": "~2.6.0",
+    "react-share": "~4.2.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "TODO_2",
+  "version": "1.0.0-SNAPSHOT"
+}
