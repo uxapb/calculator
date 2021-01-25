@@ -1,7 +1,8 @@
 {
   "private": true,
   "workspaces": [
-    "packages\\TODO_2"
+    "packages\\TODO_2",
+    "packages\\TODO_2-test"
   ],
   "devDependencies": {},
   "dependencies": {},
